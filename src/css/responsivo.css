@@ -63,4 +63,8 @@
       transparent 65%
     );
   }
+
+  .compre-ja .cartao .capa-do-jogo {
+    max-width: 80%;
+  }
 }
